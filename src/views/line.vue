@@ -1,12 +1,13 @@
 <template>
     <div>
         线路
+        <svg></svg>
     </div>
 </template>
 
 <script>
     export default {
-        name: "line"
+        name: "lineTemplate"
     }
 </script>
 
